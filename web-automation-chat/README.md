@@ -11,6 +11,5 @@ But it still works :)
 - After all the necessary files have been downloaded, to execute the test run the command: **npm run multi**
 - If you wish to look at the results in a more pleasant way, do that via allure reporter.
 - You also should add the allure-results folder, since I've removed it.
-Run command: **allure generate ./allure-results --clean && allure open**
-- Jenkins setup and execution https://drive.google.com/drive/folders/1gW1-yssY-lFPv2l0jx4yRcrdDZxN4GJH?usp=sharing
+- Run command: **allure generate ./allure-results --clean && allure open**
 
